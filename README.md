@@ -11,8 +11,7 @@ CakesWeb is a simple cake gallery website that displays cakes with images, title
 
 **Live Demo**
 
-If deployed on GitHub Pages / Vercel / Netlify:
-Live Demo 👉 [CakesWeb Demo](your-link-here)
+Live Demo 👉 [CakesWeb Demo](https://waniakhan17.github.io/CakesWeb/)
 
 
 **Features**
