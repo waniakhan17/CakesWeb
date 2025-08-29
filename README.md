@@ -23,14 +23,14 @@ Live Demo 👉 [CakesWeb Demo](your-link-here)
 - ⚡ Frontend only (no backend required)
 
   
-5. Installation & Usage
+**5. Installation & Usage**
 ```bash
 git clone https://github.com/waniakhan17/CakesWeb.git
 cd cakesweb
 ```
 Then open `index.html` in a browser.
 
-6. Project Structure
+**6. Project Structure**
 
 cakesweb/
 
